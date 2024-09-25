@@ -76,4 +76,4 @@ A Discord bot that integrates with AWS Bedrock's Large Language Models (LLMs) to
    !story [addition]: Contribute to a collaborative story.
    !trivia: Ask for a random trivia question.
    !summarize [text]: Provide a long text, and the bot will summarize it.
-   !models: Display a list of available models from the models.json file.```
+
