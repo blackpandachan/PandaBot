@@ -70,10 +70,15 @@ A Discord bot that integrates with AWS Bedrock's Large Language Models (LLMs) to
 
 1. **Commands**
    ```Here are some of the commands the bot supports:
-   
    !ask [question]: Ask the bot anything, and it will respond with information from the LLM.
    !setmood [mood]: Set the bot's mood for 60 minutes (e.g., friendly, sarcastic, formal).
    !story [addition]: Contribute to a collaborative story.
    !trivia: Ask for a random trivia question.
    !summarize [text]: Provide a long text, and the bot will summarize it.
+   !models: Display a list of available models from the models.json file.
+   ```
+
+### What's Next?
+
+NO IDEA!
 
