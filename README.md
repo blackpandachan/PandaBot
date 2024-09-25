@@ -10,14 +10,6 @@ A Discord bot that integrates with AWS Bedrock's Large Language Models (LLMs) to
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Commands](#commands)
-- [Dockerization](#dockerization)
-- [Environment Variables](#environment-variables)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
-- [Security Considerations](#security-considerations)
-- [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -78,7 +70,5 @@ A Discord bot that integrates with AWS Bedrock's Large Language Models (LLMs) to
    !models: Display a list of available models from the models.json file.
    ```
 
-### What's Next?
 
-NO IDEA!
 
