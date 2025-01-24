@@ -1,3 +1,5 @@
+# NOTE: I have not done any development against this in a LONG time as I've migrated to using langchain and consuming multiple API's (instead of abstracting to bedrock)
+
 # Discord Bot with AWS Bedrock Integration
 
 A Discord bot that integrates with AWS Bedrock's Large Language Models (LLMs) to provide conversational responses, trivia, storytelling, and more. The bot supports custom moods, maintains separate conversations per user, and offers a variety of interactive commands.
